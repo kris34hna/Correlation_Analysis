@@ -1,6 +1,6 @@
 # Movie Correlation Analysis
 
-> Cleaning a movies dataset and finding which factors — budget, votes, runtime — most strongly drive gross box office earnings.
+ Cleaning a movies dataset and finding which factors — budget, votes, runtime — most strongly drive gross box office earnings.
 
 ---
 
