@@ -116,13 +116,11 @@ After cleaning the dataset and statistically validating the appropriate correlat
 ---
 
 ##  Author & Contact
-
 | | |
 |--|--|
-| **Name** | *KRISHNA* |
-| **LinkedIn** | *https://www.linkedin.com/in/krishna-krishna-26a106231/* |
-| **GitHub** | *https://github.com/* |
+|**Name** | KRISHNA |
+|**LinkedIn** | www.linkedin.com/in/krishna-prajapati-26a106231 |
+|**GitHub** | https://github.com/ |
 
----
 
-⭐ *If you found this project helpful, consider giving it a star!*
+⭐ **If you found this project helpful, consider giving it a star!**
